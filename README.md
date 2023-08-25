@@ -3,4 +3,4 @@
 - 🌱 I’m currently a developer for the Land Registry!
 - 📫 You can reach me via my email: JamesRDorling@gmail.com
 
-This GitHub is intended to be my portfolio, as evidence that I can do it!
+This GitHub is intended to be my portfolio, as evidence that I can write code!
