@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesDorling.
-- 👀 I’m interested in programming and testing, and I like playing video games.
-- 🌱 I’m currently a tester for the Land Registry!
-- 📫 You can reach me via my portfolio contact form: https://jamesdorling.myportfolio.com/
+- 👀 I’m interested in making games, and of course I enjoy playing them too!
+- 🌱 I’m currently a developer for the Land Registry!
+- 📫 You can reach me via my email: JamesRDorling@gmail.com
 
-This GitHub is intended to be an extension of my portfolio, where some of the projects I have shown can be accessed on a deeper level by people looking to see how I code.
+This GitHub is intended to be my portfolio, as evidence that I can do it!
